@@ -10,4 +10,4 @@ Scenario: Add two numbers
 
 	Scenario: Add two numbers 2nd
 	Given input "2,2,+"
-	Then output 3
+	Then output 4

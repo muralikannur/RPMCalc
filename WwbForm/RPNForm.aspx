@@ -10,9 +10,14 @@
     <form id="form1" runat="server">
         <div>
 
+            <asp:Label>Enter RPN string : </asp:Label>
             <asp:TextBox ID="inputRPN" runat="server" />
+
+            <br /><br />
             <input type="submit" value ="Calculate" />
-            <asp:TextBox ID="outputRPN" runat="server" />
+            <br /><br />
+            <asp:Label>Result : </asp:Label>
+            <asp:TextBox ID="outputRPN" runat="server" ReadOnly="true" />
 
 
         </div>
