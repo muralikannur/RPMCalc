@@ -6,3 +6,11 @@ c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculato
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.exe
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNCalculator\obj\Debug\RPNCalculator.pdb
+C:\git\RPMCalc\RPNCalculator\obj\Debug\RPNCalculator.csprojResolveAssemblyReference.cache
+C:\git\RPMCalc\RPNCalculator\obj\Debug\RPNCalculator.exe
+C:\git\RPMCalc\RPNCalculator\obj\Debug\RPNCalculator.pdb
+C:\git\RPMCalc\RPNCalculator\bin\Debug\RPNCalculator.exe.config
+C:\git\RPMCalc\RPNCalculator\bin\Debug\RPNCalculator.exe
+C:\git\RPMCalc\RPNCalculator\bin\Debug\RPNCalculator.pdb
+C:\git\RPMCalc\RPNCalculator\bin\Debug\nunit.framework.dll
+C:\git\RPMCalc\RPNCalculator\bin\Debug\nunit.framework.xml

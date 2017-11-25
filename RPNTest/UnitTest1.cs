@@ -13,7 +13,7 @@ namespace RPNTest
                 RPNCal obj = new RPNCal();
                 string expr = "5,3,3,+,-";
                 double expected = -1;
-                double actual = obj.GetRPN(expr);
+                double actual = (double)obj.GetRPN(expr);
                 Assert.AreEqual(expected, actual);
         }
 
@@ -23,7 +23,7 @@ namespace RPNTest
             RPNCal obj = new RPNCal();
             string expr = "2,2,5,1,+,5,3,-";
             double expected = 12;
-            double actual = obj.GetRPN(expr);
+            double actual = (double)obj.GetRPN(expr);
             Assert.AreEqual(expected, actual);
         }
 
@@ -33,7 +33,7 @@ namespace RPNTest
             RPNCal obj = new RPNCal();
             string expr = "25,200,%";
             double expected = 12.5;
-            double actual = obj.GetRPN(expr);
+            double actual = (double)obj.GetRPN(expr);
             Assert.AreEqual(expected, actual);
         }
 
@@ -43,7 +43,7 @@ namespace RPNTest
             RPNCal obj = new RPNCal();
             string expr = "20,25,+,100,%";
             double expected = 45;
-            double actual = obj.GetRPN(expr);
+            double actual = (double)obj.GetRPN(expr);
             Assert.AreEqual(expected, actual);
         }
 
@@ -53,7 +53,7 @@ namespace RPNTest
             RPNCal obj = new RPNCal();
             string expr = "4,2,^";
             double expected = 16;
-            double actual = obj.GetRPN(expr);
+            double actual = (double)obj.GetRPN(expr);
             Assert.AreEqual(expected, actual);
         }
 

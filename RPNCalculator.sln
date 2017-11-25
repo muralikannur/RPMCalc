@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNCalculator", "RPNCalcula
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPNTest", "RPNTest\RPNTest.csproj", "{097BF6A1-AF01-42C8-832C-E5DABB728644}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashBoard", "DashBoard\DashBoard.csproj", "{CBF77129-1C13-42AC-8833-55CDA9171A49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WwbForm", "WwbForm\WwbForm.csproj", "{B12167BF-BF72-4FEA-A07B-DAA98FE2DE8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{097BF6A1-AF01-42C8-832C-E5DABB728644}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{097BF6A1-AF01-42C8-832C-E5DABB728644}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{097BF6A1-AF01-42C8-832C-E5DABB728644}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBF77129-1C13-42AC-8833-55CDA9171A49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF77129-1C13-42AC-8833-55CDA9171A49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBF77129-1C13-42AC-8833-55CDA9171A49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBF77129-1C13-42AC-8833-55CDA9171A49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B12167BF-BF72-4FEA-A07B-DAA98FE2DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B12167BF-BF72-4FEA-A07B-DAA98FE2DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B12167BF-BF72-4FEA-A07B-DAA98FE2DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B12167BF-BF72-4FEA-A07B-DAA98FE2DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

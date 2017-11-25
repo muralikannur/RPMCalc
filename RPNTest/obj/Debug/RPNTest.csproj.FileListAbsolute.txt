@@ -19,3 +19,24 @@ c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculato
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNTest\bin\Debug\Newtonsoft.Json.dll
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNTest\bin\Debug\TechTalk.SpecFlow.dll
 c:\users\muralikrishnan_kodak\documents\visual studio 2017\Projects\RPNCalculator\RPNTest\bin\Debug\Newtonsoft.Json.xml
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNTest.dll.config
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNTest.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNTest.pdb
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\Newtonsoft.Json.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNCalculator.exe
+C:\git\RPMCalc\RPNTest\bin\Debug\TechTalk.SpecFlow.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\nunit.framework.dll
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNCalculator.pdb
+C:\git\RPMCalc\RPNTest\bin\Debug\RPNCalculator.exe.config
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\git\RPMCalc\RPNTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\git\RPMCalc\RPNTest\bin\Debug\Newtonsoft.Json.xml
+C:\git\RPMCalc\RPNTest\bin\Debug\nunit.framework.xml
+C:\git\RPMCalc\RPNTest\obj\Debug\RPNTest.csprojResolveAssemblyReference.cache
+C:\git\RPMCalc\RPNTest\obj\Debug\RPNTest.dll
+C:\git\RPMCalc\RPNTest\obj\Debug\RPNTest.pdb
