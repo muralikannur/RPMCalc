@@ -17,7 +17,7 @@ namespace RPNCalculator
             RPNCal obj = new RPNCal();
             string expr = "2,2,+";
             double expected = 4;
-            double actual = (double)obj.GetRPN(expr);
+            double actual = obj.GetRPN(expr);
             Assert.AreEqual(expected, actual);
         }
     }
